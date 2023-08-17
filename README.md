@@ -1,2 +1,2 @@
 # PowerBI
-This repository contains PowerBI work.
+This repository contains Power BI work.
